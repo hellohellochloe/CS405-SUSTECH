@@ -3,6 +3,9 @@
 
 ## Contributions
 Lee Xuan Le, Chloe 
+
 Valen Tang Wenwen   
+
 黄翔 
+
 钟靖宸 
