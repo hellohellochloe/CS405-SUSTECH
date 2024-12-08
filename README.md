@@ -1,7 +1,7 @@
 # CS405-SUSTECH
 # Object Detection and Tracking: Camera-based 2D Object Detection (YOLOX)
 
-## Contributions
+## Contributors
 Lee Xuan Le, Chloe 
 
 Valen Tang Wenwen   
